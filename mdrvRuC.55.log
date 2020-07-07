@@ -1,0 +1,11 @@
+Error: Failed to compile virtual user.
+Notify: __________________________________________________
+Notify: Проект "C:\Users\user\Documents\VuGen\Scripts\DotNet1\Script.sln" (цели Build):
+Notify: 
+Notify: __________________________________________________
+Notify: Проект "C:\Users\user\Documents\VuGen\Scripts\DotNet1\Script.sln" создает "C:\Users\user\Documents\VuGen\Scripts\DotNet1\Script.csproj" (цели по умолчанию):
+Notify: 
+Error: Action.cs(86,27): error CS0012: The type 'System.Runtime.Serialization.IExtensibleDataObject' is defined in an assembly that is not referenced. You must add a reference to assembly 'System.Runtime.Serialization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'.
+Notify: Построение проекта "Script.csproj" завершено с ошибкой.
+Warning: Extension DotnetExtensionReplay.dll reports error -1 on call to function ExtPerProcessInitialize	[MsgId: MWAR-10485]
+Error: Thread Context: Call to service of the driver failed, reason - thread context wasn't initialized on this thread.	[MsgId: MERR-10176]

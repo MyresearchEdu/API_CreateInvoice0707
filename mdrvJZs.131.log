@@ -1,0 +1,8 @@
+Virtual User Script started at: 04.07.2020 16:56:02	[MsgId: MMSG-15967]
+Starting action vuser_init.	[MsgId: MMSG-15919]
+Ending action vuser_init.	[MsgId: MMSG-15918]
+Running Vuser...	[MsgId: MMSG-15964]
+Starting iteration 1.	[MsgId: MMSG-15968]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.cs(213): Notify: Transaction "1_Login" started.	[MsgId: MMSG-16999]
+Action.cs(281): Notify: Transaction "1_Login" ended with a "Pass" status (Duration: 6,2689).	[MsgId: MMSG-16873]
